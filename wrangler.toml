@@ -1,0 +1,11 @@
+name = "savaspinapp-com-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=savaspinapp.com.gr"
+HMAC_KEY = "cb61de5a4ce8c79f61193a113d934c7bcc077cacbd8abc74651c75a59675ceb7"
+COOKIE_NAME = "19o"
+PLAY_PATH = "play-now"
+BUTTON_ID = "p03c483f3a5bc9825912c52c7e919fa2e"
+GATE_SALT = "bfcf0390d1075f9d"
